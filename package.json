@@ -19,7 +19,7 @@
           "ee-class"                : "*"
         , "ee-event-emitter"        : "*"
         , "ee-types"                : "*"
-        , "ee-log"                  : "*"
+        , "ee-log"                  : ">=2.0.3"
         , "ee-project"              : "*"
         , "ee-random-data-provider" : "*"
     }
