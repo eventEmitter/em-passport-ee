@@ -18,7 +18,7 @@
     , "dependencies": {
           "ee-class"                : "*"
         , "ee-event-emitter"        : "*"
-        , "ee-types"                : "*"
+        , "ee-types"                : ">=2.2.0"
         , "ee-log"                  : "*"
         , "ee-project"              : "*"
         , "ee-random-data-provider" : "*"
